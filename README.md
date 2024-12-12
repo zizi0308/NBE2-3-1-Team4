@@ -1,3 +1,5 @@
+#### [프로젝트 자료는 여기에](https://github.com/zizi0308/NBE2-3-1-Team4/blob/main/Team4_1%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
+
 ## 1차 팀 프로젝트 회고록
 
 ### 내가 구현 기능 : 로그인, 주문 목록 불러오기, 주문 삭제
